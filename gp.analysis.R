@@ -70,7 +70,7 @@ sim.afreqs <- function(nloci=10,n.alleles=10, simple=F){
 
 #Description
 #This fuction is a modified version of Mark Christie's script to create parents and offspring.
-#Note that one can create random genotyping error, add unrelated indviduals, and add full siblings inteh mix
+#Note that one can create random genotyping error, add unrelated indviduals, and add full siblings in the mix
 
 #Input Parameters:
 #afreq - this is a data frame with two rows in it, the first is the locus, and the second is the allele frequencies
